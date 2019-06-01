@@ -1,6 +1,7 @@
 # pong
 pong in canvas
-##sterowanie
+## sterowanie
+
 strzałki góra/dół 
 
 a/z
